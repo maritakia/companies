@@ -154,13 +154,13 @@
 					"rating": 54
 				}
 			],
-			"cat 1": [{
+			"cat_1": [{
 				"category": 1,
 				"type": "Religious Centre",
 				"name": "Tibetan Buddhist Meditation Centre",
 				"rating": 36
 			}],
-			"cat 2": [{
+			"cat_2": [{
 					"category": 2,
 					"type": "Household Furnishing",
 					"name": "Argos",
@@ -192,13 +192,13 @@
 					"rating": 65
 				}
 			],
-			"cat 3": [{
+			"cat_3": [{
 				"category": 3,
 				"type": "Gas Station",
 				"name": "Circle K",
 				"rating": 88
 			}],
-			"cat 4": [{
+			"cat_4": [{
 					"category": 4,
 					"type": "Pharmacutical Company",
 					"name": "AstraZeneca",
@@ -232,7 +232,7 @@
 					"rating": 79
 				}
 			],
-			"cat 5": [{
+			"cat_5": [{
 					"category": 5,
 					"type": "Bank",
 					"name": "Barclays",
@@ -252,7 +252,7 @@
 					"rating": 39
 				}
 			],
-			"cat 6": [{
+			"cat_6": [{
 					"category": 6,
 					"type": "Car hire",
 					"name": "Avis",
@@ -271,7 +271,7 @@
 					"rating": 67
 				}
 			],
-			"cat 7": [{
+			"cat_7": [{
 					"category": 7,
 					"type": "barbers",
 					"name": "Wrights Barbers",
@@ -284,13 +284,13 @@
 					"rating": 45
 				}
 			],
-			"cat 8": [{
+			"cat_8": [{
 				"category": 8,
 				"type": "electronics store",
 				"name": "The Lock Hospital",
 				"rating": 77
 			}],
-			"cat 9": [{
+			"cat_9": [{
 					"category": 9,
 					"type": "Party Supplies",
 					"name": "Card Factory",
@@ -304,7 +304,7 @@
 					"rating": 38
 				}
 			],
-			"cat 10": [{
+			"cat_10": [{
 					"category": 10,
 					"type": "estate agents",
 					"name": "Brock Delappe",
@@ -317,7 +317,7 @@
 					"rating": 56
 				}
 			],
-			"cat 11": [{
+			"cat_11": [{
 					"category": 11,
 					"type": "Gym",
 					"name": "Herberton Leisure",
@@ -337,19 +337,19 @@
 					"rating": 29
 				}
 			],
-			"cat 12": [{
+			"cat_12": [{
 				"category": 12,
 				"type": "manufacturer",
 				"name": "Botany Weaving Mill",
 				"rating": 89
 			}],
-			"cat 13": [{
+			"cat_13": [{
 				"category": 13,
 				"type": "machinery hire",
 				"name": "Hire Here Ltd",
 				"rating": 59
 			}],
-			"cat 14": [{
+			"cat_14": [{
 				"category": 14,
 				"type": "clothes alteration",
 				"name": "All Alteration Services",
