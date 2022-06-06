@@ -1,6 +1,6 @@
 {
   "companies": {
-    "categories": {
+    "categories": [
       "cat 0": [
         {
           "category": 0,
@@ -376,6 +376,6 @@
           "rating": 27
         }
       ]
-    }
+    ]
   }
 }
