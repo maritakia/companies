@@ -48,7 +48,6 @@
 		},
 		{
 			"id" : 4,
-			"id": "astrazeneca",
 			"type": "Pharmacutical Company",
 			"name": "AstraZeneca",
 			"parent": "AstraZeneca plc",
@@ -64,7 +63,6 @@
 		},
 		{
 			"id" : 5,
-			"id": "barclays",
 			"type": "Bank",
 			"name": "Barclays",
 			"parent": "Barclays plc",
@@ -120,7 +118,6 @@
 		},
 		{
 			"id" : 9,
-			"id": "cardfactory",
 			"type": "Party Supplies",
 			"name": "Card Factory",
 			"parent": "Card Factory plc",
